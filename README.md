@@ -6,3 +6,4 @@
 - 😄 Pronouns: My pronous are whatever the fuck you want, he/him. she/ her. they/them, just call me Luna.
 - ⚡ Fun fact: My name means moon in Spanish my parents decided to name me like that because the night I was born the lunar phase was full moon.
 
+Another fun fact, the reason I have Petter Griffin has my profile picture is because I love how he always smiles and is happy about everything, despite he is a jackass.
