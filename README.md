@@ -1,6 +1,16 @@
-- 👋 Hi, I’m a maths and physics appassionato and a student of computer engineering.
-- 👀 I’m interested in programming, videogames and everything that is about computer science.
-- 🌱 I’m currently studying computer engineering at college.
-- 💞️ I’m looking to collaborate in the future in some high projects, but I am really interesting in creating apps (if you too, send me a message on my IG).
-- 📫 How to reach me: You can always send me a message on IG: @lunx_04._
-  
+## 🐍 My Contributions
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg"
+  />
+</picture>
